@@ -1,1 +1,2 @@
 # Anomaly-detection-on-Stock-Market-using-Autoencoders
+A Jupyter Notebook that implements an anomaly detection system for stock market data using Autoencoders in TensorFlow. The code performs data preprocessing, building the deep learning model, training, and testing. The autoencoder is used to reconstruct the stock market data and detect any deviations from the normal behavior. The code includes a plot to visualize the comparison between the input data and the reconstructed data.
